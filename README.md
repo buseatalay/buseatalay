@@ -8,9 +8,10 @@
 
 - 🔭 I’m currently participating in **Turkcell Geleceği Yazanlar Program**, where I am taking an in-depth Java training.  
 - 🌱 I’m currently learning Java and exploring its core concepts and advanced features.  
-- 👯 I’m open to collaborating on projects in computer vision, AI, mobile apps, game development, and VR.  
+- 👯 I’m open to collaborating on projects in computer vision, AI, mobile apps, game development, as well as roles in QA testing, business analysis, or product management.
+  
  
-- 💬 Ask me about machine learning, data science, and software development.  
+- 💬 Ask me about machine learning, data science, project management and software development.  
 
 ## 📫 Contact Me
 
@@ -24,10 +25,11 @@
 - **Autonomous Vehicle Lane Tracking & Sign Recognition** – Uludag Electromobile Community, Teknofest  
 - **Natural Disaster Education VR Project** – Unity, C#, Blender  
 - **Teknofest Unmanned Aerial Vehicles Project**  
-- **Uludağ University Aviation Community** – Teknofest Team Software Captain  
+- **Uludağ University Aviation Community** – Teknofest Team Software Captain
+- **Course Management System** – MySQL, Python,Tkinter, Navicat, DBeaver
 - **UniUçuş Günleri Festival** – Event Coordinator, Board Member
 
-- 
+ 
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love watching sunsets by the sea 🌅 and ı'm a paragliding pilot 🪂 and one day I’ll start traveling the world 🌍✈️.  
 
