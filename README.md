@@ -29,7 +29,11 @@
 - **Course Management System** – MySQL, Python,Tkinter, Navicat, DBeaver
 - **UniUçuş Günleri Festival** – Event Coordinator, Board Member
 
- 
+
+![Fun fact](https://img.shields.io/badge/😄-Fun%20fact-yellow)
+
+
+
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love watching sunsets by the sea 🌅 and ı'm a paragliding pilot 🪂 and one day I’ll start traveling the world 🌍✈️.  
 
