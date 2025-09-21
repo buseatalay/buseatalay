@@ -35,5 +35,6 @@
 
 ## 😄 Pronouns: 
 She/Her  
-## ⚡ Fun fact: I love watching sunsets by the sea 🌅 and I'm a paragliding pilot 🪂 and one day I’ll start traveling the world 🌍✈️.  
+## ⚡ Fun fact: 
+I love watching sunsets by the sea 🌅 and I'm a paragliding pilot 🪂 and one day I’ll start traveling the world 🌍✈️.  
 
