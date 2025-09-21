@@ -11,9 +11,12 @@
 - 👯 I’m open to collaborating on projects in computer vision, AI, mobile apps, game development, and VR.  
  
 - 💬 Ask me about machine learning, data science, and software development.  
-- 📫 How to reach me:
-- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/buse-atalay-ba0594224/)  
-- [![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:atalaybuse842@gmail.com)
+
+## 📫 Contact Me
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/buse-atalay-ba0594224/) 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30"/>](mailto:atalaybuse842@gmail.com)
+
   
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love watching sunsets by the sea 🌅 and ı'm a paragliding pilot 🪂 and one day I’ll start traveling the world 🌍✈️.  
