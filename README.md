@@ -29,8 +29,8 @@
 - **Course Management System** – MySQL, Python,Tkinter, Navicat, DBeaver
 - **UniUçuş Günleri Festival** – Event Coordinator, Board Member
 
+![Sunset](https://images.unsplash.com/photo-1501973801540-537f08ccae7d?auto=format&fit=crop&w=800&q=60)
 
-![Fun fact](https://img.shields.io/badge/😄-Fun%20fact-yellow)
 
 
 
