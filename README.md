@@ -29,11 +29,10 @@
 - **Course Management System** – MySQL, Python,Tkinter, Navicat, DBeaver
 - **UniUçuş Günleri Festival** – Event Coordinator, Board Member
 
-![Sunset](https://images.unsplash.com/photo-1501973801540-537f08ccae7d?auto=format&fit=crop&w=800&q=60)
 
 
 
 
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love watching sunsets by the sea 🌅 and ı'm a paragliding pilot 🪂 and one day I’ll start traveling the world 🌍✈️.  
+## 😄 Pronouns: She/Her  
+## ⚡ Fun fact: I love watching sunsets by the sea 🌅 and ı'm a paragliding pilot 🪂 and one day I’ll start traveling the world 🌍✈️.  
 
